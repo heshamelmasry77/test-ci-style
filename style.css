@@ -1,13 +1,9 @@
 body {
   height: 100%;
-  background-color: ivory;
-
-
-
-
+  background-color: bisque;
 }
 h1 {
-  color: ;
+  color: blue;
   font-family: verdana;
   font-size: 300%;
 }
