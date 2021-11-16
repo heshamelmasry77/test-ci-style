@@ -1,2 +1,0 @@
-- name: StyleCI CLI
-  uses: ghostwriter/styleci-action@v1.2.0

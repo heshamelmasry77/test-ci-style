@@ -1,14 +1,15 @@
 body {
   height: 100%;
-  background-color: bisque;
+  background-color: whitesmoke;
+
 }
 h1 {
   color: blue;
-  font-family: verdana;
+  font-family: verdana, serif;
   font-size: 300%;
 }
 p {
   color: red;
-  font-family: courier;
+  font-family: courier, serif;
   font-size: 160%;
 }
