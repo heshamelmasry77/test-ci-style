@@ -1,6 +1,3 @@
 {
-  "rules": {
-    "color-no-invalid-hex": true,
-    "max-empty-lines": 6
-  }
+  "extends": "stylelint-config-standard"
 }
